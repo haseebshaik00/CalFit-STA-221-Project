@@ -6,5 +6,8 @@ STA 221 Final Project
 ```shell
 conda create -n calfit-env python=3.10 -y
 conda activate calfit-env
-pip install numpy pandas matplotlib seaborn scikit-learn==1.4.2
+pip install -r requirements.txt
 ```
+
+## EDA & Research Questions
+
