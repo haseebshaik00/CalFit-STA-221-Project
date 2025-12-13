@@ -36,3 +36,10 @@ Make sure while downloading the project from git, you have 2 csv files `calories
 - Given a strong \(R^2\), how we checked for potential **overfitting**?
 
 > To run on local, make sure you have the .ipynb file/notebook, and then run each cell via VS Code.
+
+---
+
+**Disclaimer:**  
+This research and its findings are intended solely for academic and study purposes. The content is shared publicly to promote open knowledge and may be reused, referenced, or extended by others with appropriate credit. 
+
+Contributions, feedback, and collaborations are welcome!
