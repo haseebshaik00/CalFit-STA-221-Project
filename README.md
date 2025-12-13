@@ -25,7 +25,7 @@ Make sure while downloading the project from git, you have 2 csv files `calories
 
 
 ## Step-3: EDA & Research Questions
-`1-calfir-analysis-EDA-RQ.ipynb`: This file contains the script which was used to import, load and preprocess the dataset and perform EDA over it. It also contains the analysis of our 3 main research questions.
+`1-calfit-analysis-EDA-RQ.ipynb`: This file contains the script which was used to import, load and preprocess the dataset and perform EDA over it. It also contains the analysis of our 3 main research questions.
 
 > To run on local, make sure you have the .ipynb file/notebook, and then run each cell via VS Code.
 
